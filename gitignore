@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (too large for GitHub)
+*.safetensors
+*.bin
+*.pt
+*.pth
+smartreview_model/
+phase4_checkpoints/
+
+# Data files (reproducible via notebook)
+*.csv
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+sample_data/

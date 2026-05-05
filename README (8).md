@@ -27,11 +27,15 @@ The project exists to teach AI/ML/DL/NLP through building, not through theory. E
 
 | Phase 1: Feature correlations | Phase 2: Confusion matrix |
 |:---:|:---:|
-| ![Phase 1](results/phase1_exploration.png) | ![Phase 2](results/phase2_confusion.png) |
+| ![Phase 1]<img width="1389" height="989" alt="phase1_exploration" src="https://github.com/user-attachments/assets/742423a7-d9d9-49ba-a81b-a665610a6292" />
+ | ![Phase 2]<img width="715" height="590" alt="phase2_confusion" src="https://github.com/user-attachments/assets/e85e2889-930f-4299-8f8b-8f2ffddd47f9" />
+ |
 
 | Phase 3: LSTM overfitting | Phase 4: Attention heatmap |
 |:---:|:---:|
-| ![Phase 3](results/phase3_training.png) | ![Phase 4](results/phase4_attention.png) |
+| ![Phase 3]<img width="1189" height="490" alt="phase3_training" src="https://github.com/user-attachments/assets/121499ab-7bee-4bad-a181-e4b8488bf523" />
+ | ![Phase 4]<img width="941" height="790" alt="phase4_attention" src="https://github.com/user-attachments/assets/85bc61b6-f091-4bc2-8dc1-b12f42ca50ba" />
+ |
 
 ## What the attention heatmap reveals
 

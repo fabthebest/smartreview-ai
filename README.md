@@ -88,10 +88,37 @@ results/
 3. Run every cell from top to bottom
 4. Total time: ~20 minutes for all 4 phases
 
-## Tech stack
+Tools and credits
+Fabrice Fils-Aimé designed the project architecture, directed the learning progression, ran all experiments, and performed the analysis. Claude (Anthropic) generated the notebook code and structure. DeepSeek assisted with expansion and debugging. The intellectual work of understanding, experimenting, and drawing conclusions is the author's.
+Citation
+If you use this project in your work or reference it in a publication:
+bibtex@misc{filsaime2025smartreview,
+  author       = {Fils-Aimé, Fabrice},
+  title        = {SmartReview AI: Learning AI/ML/DL/NLP by Reverse Engineering},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/fabthebest/smartreview-ai}
+}
+## Requirements
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.3
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+accelerate>=0.24
+evaluate>=0.4
+Install everything at once:
+bashpip install pandas numpy matplotlib seaborn scikit-learn torch transformers datasets accelerate evaluate
+Or use Google Colab (recommended), which has most dependencies pre-installed.
+Connect
+I'm open to collaborations, opportunities, and conversations about AI/ML. If this project resonates with you, I'd love to hear from you.
 
-Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, PyTorch, HuggingFace Transformers, Google Colab
+GitHub: github.com/fabthebest
 
+If you found this project useful or learned something from it, consider giving it a star. It helps others discover it and motivates me to keep building Phases 5, 6, and 7.
 ## License
-
-Apache 2.0
+Copyright 2025 Fabrice Fils-Aimé
+Licensed under the Apache License, Version 2.0. See LICENSE for details.

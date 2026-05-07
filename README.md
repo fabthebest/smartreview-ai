@@ -120,5 +120,5 @@ GitHub: github.com/fabthebest
 
 If you found this project useful or learned something from it, consider giving it a star. It helps others discover it and motivates me to keep building Phases 5, 6, and 7.
 ## License
-Copyright 2025 Fabrice Fils-Aimé
+Copyright 2026 Fabrice Fils-Aimé
 Licensed under the Apache License, Version 2.0. See LICENSE for details.
